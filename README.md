@@ -1,1 +1,1 @@
-Parciasl: Juanita Franco Sanchez
+Parcial: Juanita Franco Sanchez
