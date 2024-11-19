@@ -27,5 +27,6 @@ public class DTOContrato {
     private Date fecha_inicial;
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd")
     private Date fecha_final;
+    private int status;
     
 }

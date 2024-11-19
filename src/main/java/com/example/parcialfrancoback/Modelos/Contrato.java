@@ -32,5 +32,6 @@ public class Contrato {
     private String documento_contratantista;
     private Date fecha_inicial;
     private Date fecha_final;
+    private int status;
 
 }
